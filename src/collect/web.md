@@ -2,7 +2,7 @@
 # 这是文章的标题
 title: Internet
 # 这是页面的图标
-icon: fa-regular fa-globe
+icon: 
 # 这是侧边栏的顺序
 order: 3
 # 设置作者

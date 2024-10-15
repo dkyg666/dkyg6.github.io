@@ -20,12 +20,12 @@ export const zhNavbar = navbar([
       {
         text: "哔哩哔哩",
         icon: "fa-brands fa-bilibili",
-        link: "https://space.bilibili.com/",
+        link: "https://www.bilibili.com/",
       },
       { 
         text: "YouTube", 
         icon:"fa-brands fa-youtube",
-        link: "" 
+        link: "https://www.youtube.com/" 
       },
     ],
   },
